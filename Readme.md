@@ -53,6 +53,9 @@ ST30PY0DTDSKJC0V4834G0EA94FMANTN7Z59BV1F6.FlightDelay_Insurance
 - **Contract Name**: flight-delay-insurance
 - **Deployer**: *To be provided*
 
+<img width="1820" height="707" alt="image" src="https://github.com/user-attachments/assets/468cd9ff-ccff-4d7d-86a9-8e5e2e60405f" />
+
+
 ### How to Use
 
 1. **Purchase Insurance**: Call `purchase-insurance` with your flight number, date, and premium amount
